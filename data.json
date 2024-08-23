@@ -1,5 +1,7 @@
 {
-    "name": "John",
-    "age": 30,
-    "city": "New York"
+	"Authenticator" : {
+		"Hash" 		: "Hash",
+		"Token" 	: "Token",
+		"Status" 	: "Status"
+	}
 }
