@@ -1,5 +1,5 @@
 {
-	"Authenticator" : {
+	"Object" : {
 		"Hash" 		: "Hash",
 		"Token" 	: "Token",
 		"Status" 	: "Status"
