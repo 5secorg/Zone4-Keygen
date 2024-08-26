@@ -1,5 +1,5 @@
 {
-	"Verify" : {[
+	"Verify" : [
 		{
 			"Path" : "Bin/Bin.zip",
 			"Link" : "#\Bin/Bin.zip",
@@ -135,5 +135,5 @@
 			"Link" : "#\Bin/zlib1.dll",
 			"Hash" : "d21b53a4361a811247752e1870ae6daa08cd5ed2196ff9641e7f6ca2470c751b"
 		}
-	]}
+	]
 }
