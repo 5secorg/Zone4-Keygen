@@ -1,5 +1,6 @@
 {
 	"Verify" : [
+				
 		{
 			"Path" : "connectlog.dll",
 			"Hash" : "f5423ab8f74bbd36277d258650575d3daf8da5566a0822207ef34f973e943836"
@@ -34,7 +35,7 @@
 		},
 		{
 			"Path" : "libpng16.dll",
-			"Hash" : "930d9a67826994b7cc613211cb4ff2d18e671f3eb26f6a8e818b3b09cbb69f1d"
+			"Hash" : "66e16a68a442f8e5ac56ab8176c3ca38adbc26893550f7457b55c2f53c16994c"
 		},
 		{
 			"Path" : "libssl-1_1.dll",
