@@ -1,11 +1,6 @@
 {
 	"Verify" : [
 		{
-			"Path" : "Bin/Bin.zip",
-			"Link" : "/Bin/Bin.zip",
-			"Hash" : "597fc41074c3a541e028e491dcbd6843ce85230dd9cb63e48c169c3dee7a4934"
-		},
-		{
 			"Path" : "Bin/connectlog.dll",
 			"Link" : "/Bin/connectlog.dll",
 			"Hash" : "f5423ab8f74bbd36277d258650575d3daf8da5566a0822207ef34f973e943836"
@@ -49,11 +44,6 @@
 			"Path" : "Bin/libhss.dll",
 			"Link" : "/Bin/libhss.dll",
 			"Hash" : "f367cc05adaf8aacd6099b47b6c7f42e1f5bc31b67f6295817f60e7145ee4082"
-		},
-		{
-			"Path" : "Bin/libpng16.dll",
-			"Link" : "/Bin/libpng16.dll",
-			"Hash" : "930d9a67826994b7cc613211cb4ff2d18e671f3eb26f6a8e818b3b09cbb69f1d"
 		},
 		{
 			"Path" : "Bin/libssl-1_1.dll",
