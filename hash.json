@@ -2,137 +2,137 @@
 	"Verify" : [
 		{
 			"Path" : "Bin/Bin.zip",
-			"Link" : "#\Bin/Bin.zip",
+			"Link" : "/Bin/Bin.zip",
 			"Hash" : "597fc41074c3a541e028e491dcbd6843ce85230dd9cb63e48c169c3dee7a4934"
 		},
 		{
 			"Path" : "Bin/connectlog.dll",
-			"Link" : "#\Bin/connectlog.dll",
+			"Link" : "/Bin/connectlog.dll",
 			"Hash" : "f5423ab8f74bbd36277d258650575d3daf8da5566a0822207ef34f973e943836"
 		},
 		{
 			"Path" : "Bin/cwebpage.dll",
-			"Link" : "#\Bin/cwebpage.dll",
+			"Link" : "/Bin/cwebpage.dll",
 			"Hash" : "59587709ead4ec7d4156308b3d099068a02a960478933e6e12511d9ae6aafc52"
 		},
 		{
 			"Path" : "Bin/discord-rpc.dll",
-			"Link" : "#\Bin/discord-rpc.dll",
+			"Link" : "/Bin/discord-rpc.dll",
 			"Hash" : "ef7404768c7183bdce9e46666a121a89b77be40060d0aea4d67804cf0e5ce6d8"
 		},
 		{
 			"Path" : "Bin/Engine.dll",
-			"Link" : "#\Bin/Engine.dll",
+			"Link" : "/Bin/Engine.dll",
 			"Hash" : "fb0d7cae453556346ac82071b872a8878a93c791153bf0214f97329fcc79761d"
 		},
 		{
 			"Path" : "Bin/EngineGUI.dll",
-			"Link" : "#\Bin/EngineGUI.dll",
+			"Link" : "/Bin/EngineGUI.dll",
 			"Hash" : "926929db6fc349dd89631ca16ac7dfb28664edb291fcb01dc1639904e241cc28"
 		},
 		{
 			"Path" : "Bin/EntitiesMP.dll",
-			"Link" : "#\Bin/EntitiesMP.dll",
+			"Link" : "/Bin/EntitiesMP.dll",
 			"Hash" : "bebb8d31ccfa0698702bb1c49e3cf228795c4dfea822c4f28d897f658499ed2e"
 		},
 		{
 			"Path" : "Bin/GameMP.dll",
-			"Link" : "#\Bin/GameMP.dll",
+			"Link" : "/Bin/GameMP.dll",
 			"Hash" : "27beb126607d1671eb2b4a84669aa4cc334cb490eacd1f68a4277e086356f9b2"
 		},
 		{
 			"Path" : "Bin/libcrypto-1_1.dll",
-			"Link" : "#\Bin/libcrypto-1_1.dll",
+			"Link" : "/Bin/libcrypto-1_1.dll",
 			"Hash" : "b4acd33480178acc86130c127bf129e03eb13e9cbc05740c6bfcb6b077909578"
 		},
 		{
 			"Path" : "Bin/libhss.dll",
-			"Link" : "#\Bin/libhss.dll",
-			"Hash" : "a95fcdaee59df7cc95695d02fad86d7144411d0d0bdd680d86c19d2ba2a5e82e"
+			"Link" : "/Bin/libhss.dll",
+			"Hash" : "f367cc05adaf8aacd6099b47b6c7f42e1f5bc31b67f6295817f60e7145ee4082"
 		},
 		{
 			"Path" : "Bin/libpng16.dll",
-			"Link" : "#\Bin/libpng16.dll",
+			"Link" : "/Bin/libpng16.dll",
 			"Hash" : "930d9a67826994b7cc613211cb4ff2d18e671f3eb26f6a8e818b3b09cbb69f1d"
 		},
 		{
 			"Path" : "Bin/libssl-1_1.dll",
-			"Link" : "#\Bin/libssl-1_1.dll",
+			"Link" : "/Bin/libssl-1_1.dll",
 			"Hash" : "8c195d0efa1aa13ce3cf0c86b0c60608b06fe930525b35f90e2fc990edefe547"
 		},
 		{
 			"Path" : "Bin/lua5.1.dll",
-			"Link" : "#\Bin/lua5.1.dll",
+			"Link" : "/Bin/lua5.1.dll",
 			"Hash" : "5b6b55eba1d7852b7e2617563aa4dd69cf61cede7cccdca66820084574446072"
 		},
 		{
 			"Path" : "Bin/lua51.dll",
-			"Link" : "#\Bin/lua51.dll",
+			"Link" : "/Bin/lua51.dll",
 			"Hash" : "4c06c1fe4d85f014b03bca843137d387510bedd52e3ec755edee878e0fabcee9"
 		},
 		{
 			"Path" : "Bin/msvcp.dll",
-			"Link" : "#\Bin/msvcp.dll",
+			"Link" : "/Bin/msvcp.dll",
 			"Hash" : "f1fd0f1a54f196b19a6f21044092c89c02353dad173c236d80f6474cb8a7ea7f"
 		},
 		{
 			"Path" : "Bin/msvcp100.dll",
-			"Link" : "#\Bin/msvcp100.dll",
+			"Link" : "/Bin/msvcp100.dll",
 			"Hash" : "cd28daeda3c8731030e2077e6eccbb609e2098919b05ff310bef8dce1dce2d8d"
 		},
 		{
 			"Path" : "Bin/msvcr100.dll",
-			"Link" : "#\Bin/msvcr100.dll",
+			"Link" : "/Bin/msvcr100.dll",
 			"Hash" : "25d1cc5be93c7a0b58855ad1f4c9df3cfb9ec87e5dc13db85b147b1951ac6fa8"
 		},
 		{
 			"Path" : "Bin/mysqlcppconn-9-vs14.dll",
-			"Link" : "#\Bin/mysqlcppconn-9-vs14.dll",
+			"Link" : "/Bin/mysqlcppconn-9-vs14.dll",
 			"Hash" : "4913e26974a69c305f1a6426153b5462f5d38dbe2bd0583d0eee4a9d7ff1fd39"
 		},
 		{
 			"Path" : "Bin/mysqlcppconn8-2-vs14.dll",
-			"Link" : "#\Bin/mysqlcppconn8-2-vs14.dll",
+			"Link" : "/Bin/mysqlcppconn8-2-vs14.dll",
 			"Hash" : "a02d3a6613223122f2e141a7a3fe361e7777b2292e1340e4a2d9c10387d1283a"
 		},
 		{
 			"Path" : "Bin/Nksp.exe",
-			"Link" : "#\Bin/Nksp.exe",
+			"Link" : "/Bin/Nksp.exe",
 			"Hash" : "a5706b6ee3eb5734f28ce3837e55bbe3e1d8f68ce5426972092d937b192df507"
 		},
 		{
 			"Path" : "Bin/ogg.dll",
-			"Link" : "#\Bin/ogg.dll",
+			"Link" : "/Bin/ogg.dll",
 			"Hash" : "58ef796f7a5bee783aa9e290ffcde7d1b33500d64c55e33b3b32577614be81ca"
 		},
 		{
 			"Path" : "Bin/Shaders.dll",
-			"Link" : "#\Bin/Shaders.dll",
+			"Link" : "/Bin/Shaders.dll",
 			"Hash" : "8241bde95b66430c6da1550a55ab01d5fcff66dac2ceef953aca789296adbffe"
 		},
 		{
 			"Path" : "Bin/vorbis.dll",
-			"Link" : "#\Bin/vorbis.dll",
+			"Link" : "/Bin/vorbis.dll",
 			"Hash" : "7aececd5a57a4a36a3ed498440f472de8ac7143e53767bd924a1a30fa720926b"
 		},
 		{
 			"Path" : "Bin/vorbisfile.dll",
-			"Link" : "#\Bin/vorbisfile.dll",
+			"Link" : "/Bin/vorbisfile.dll",
 			"Hash" : "eb3a20f7d7b48415c506672a842485947750bf5c36f657a9ec3cffeaa4ca025f"
 		},
 		{
 			"Path" : "Bin/xHunterShield.dll",
-			"Link" : "#\Bin/xHunterShield.dll",
+			"Link" : "/Bin/xHunterShield.dll",
 			"Hash" : "c4d69bd6789d36c4d3465a4014cbe135bdbad10392947c17760959737b66ecd6"
 		},
 		{
 			"Path" : "Bin/XPva03.dll",
-			"Link" : "#\Bin/XPva03.dll",
+			"Link" : "/Bin/XPva03.dll",
 			"Hash" : "4c50bb27881fe1fee0e8a88a6cacabe42c888884c7bb3c97683b0b4f1b6626e1"
 		},
 		{
 			"Path" : "Bin/zlib1.dll",
-			"Link" : "#\Bin/zlib1.dll",
+			"Link" : "/Bin/zlib1.dll",
 			"Hash" : "d21b53a4361a811247752e1870ae6daa08cd5ed2196ff9641e7f6ca2470c751b"
 		}
 	]
