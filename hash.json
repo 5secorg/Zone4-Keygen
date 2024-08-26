@@ -33,10 +33,6 @@
 			"Hash" : "b4acd33480178acc86130c127bf129e03eb13e9cbc05740c6bfcb6b077909578"
 		},
 		{
-			"Path" : "libhss.dll",
-			"Hash" : "a84ed1fb9410d21a6422b7db1a503d23021479ea15e397e6767d7d0b3941ce5e"
-		},
-		{
 			"Path" : "libpng16.dll",
 			"Hash" : "5d1ee78892ca284ccd3b0b7e4c4ebdede5db62b380564a6ac7e37e86bb3d196d"
 		},
