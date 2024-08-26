@@ -33,8 +33,12 @@
 			"Hash" : "b4acd33480178acc86130c127bf129e03eb13e9cbc05740c6bfcb6b077909578"
 		},
 		{
+			"Path" : "libhss.dll",
+			"Hash" : "a84ed1fb9410d21a6422b7db1a503d23021479ea15e397e6767d7d0b3941ce5e"
+		},
+		{
 			"Path" : "libpng16.dll",
-			"Hash" : "66e16a68a442f8e5ac56ab8176c3ca38adbc26893550f7457b55c2f53c16994c"
+			"Hash" : "5d1ee78892ca284ccd3b0b7e4c4ebdede5db62b380564a6ac7e37e86bb3d196d"
 		},
 		{
 			"Path" : "libssl-1_1.dll",
@@ -99,6 +103,6 @@
 		{
 			"Path" : "zlib1.dll",
 			"Hash" : "d21b53a4361a811247752e1870ae6daa08cd5ed2196ff9641e7f6ca2470c751b"
-		}
+		},
 	]
 }
